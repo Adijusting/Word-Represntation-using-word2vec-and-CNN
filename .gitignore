@@ -1,0 +1,6 @@
+.venv/
+
+trained/
+.w2v
+.pbtxt
+.tsv
